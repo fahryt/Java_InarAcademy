@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package chapters.Chapter04.Exercises;
 
 public class Exercise04_16 {
@@ -8,3 +9,10 @@ public class Exercise04_16 {
 	}
 
 }
+=======
+package chapters.Chapter04.Exercises;
+
+public class Exercise04_16 {
+
+}
+>>>>>>> 0f162954b3bcf0bc923c8ba45f1c609d3cca264e
